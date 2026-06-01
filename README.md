@@ -1,2 +1,2 @@
-# brewmetric-india
-Coffee sales intelligence of Brewmetric India, a D2C coffee brand, detailing a full (2023-2024) cost-benefit, market penetration, and customer satisfaction analysis across 14 Indian cities to identify high-ROI expansion targets and underperforming markets, and delivering an interactive executive Power BI dashboard.
+# brewmetric-india - data
+branch that contains project data, divided into the raw data files and the cleaned data files
