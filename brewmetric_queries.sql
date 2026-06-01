@@ -1,6 +1,6 @@
 -- =============================================================
 --  BrewMetric India | Coffee Sales Intelligence Database
---  Author: Sidney Eluwa  |  MySQL 8.0  |  FY 2023
+--  Author: Sidney Eluwa  |  MySQL 8.0  |  2023-2024
 -- =============================================================
  
 -- 1 - CREATE DATABASE
