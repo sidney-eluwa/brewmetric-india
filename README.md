@@ -7,5 +7,5 @@ b.	Open BrewMetric_Data_Cleaned.xlsx → Data → Refresh All (Power Query re-ru
 c.	In MySQL Workbench: run SQL scripts in order
 d.	Open BrewMetric_India_Dashboard.pbix → update MySQL connection string → Refresh
 
-# Project implementation steps
-Detailed in the Project Documnetation file attached
+# Project Implementation Steps
+Detailed in the Project Documentation file attached
