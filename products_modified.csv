@@ -1,0 +1,29 @@
+product_id,product_name,category, price ,assumed_cogs,gross_margin,gross_margin_pct
+1,Ground Espresso Coffee (250g),Coffee Beverages,350.00,192.5,157.5,70.88
+2,Cold Brew Coffee Pack (6 Bottles),Coffee Beverages,900.00,495,405,182.25
+3,Instant Coffee Powder (100g),Coffee Beverages,250.00,137.5,112.5,50.62
+4,Coffee Beans (500g),Coffee Beverages,600.00,330,270,121.5
+5,Coffee Drip Bags (10 Bags),Coffee Beverages,450.00,247.5,202.5,91.12
+6,French Press Coffee Set,Equipment & Accessories,1200.00,660,540,243
+7,Specialty Coffee Subscription,Coffee Beverages,1500.00,825,675,303.75
+8,Flavored Coffee Pods (Pack of 10),Coffee Beverages,750.00,412.5,337.5,151.88
+9,Organic Green Coffee Beans (500g),Coffee Beverages,700.00,385,315,141.75
+10,Coffee Gift Hamper,Lifestyle & Gifting,1800.00,990,810,364.5
+11,Cold Brew Concentrate (500ml),Coffee Beverages,550.00,302.5,247.5,111.38
+12,Caramel Syrup (250ml),Syrups & Flavourings,300.00,165,135,60.75
+13,Mocha Flavored Coffee Mix (200g),Coffee Beverages,450.00,247.5,202.5,91.12
+14,Vanilla Coffee Syrup (250ml),Syrups & Flavourings,320.00,176,144,64.8
+15,Coffee Mug (Ceramic),Equipment & Accessories,350.00,192.5,157.5,70.88
+16,Stainless Steel Tumbler,Equipment & Accessories,500.00,275,225,101.25
+17,Coffee-Themed T-Shirt,Lifestyle & Gifting,600.00,330,270,121.5
+18,Reusable Coffee Cup (Eco-friendly),Equipment & Accessories,450.00,247.5,202.5,91.12
+19,Glass Coffee Jar (500ml),Equipment & Accessories,300.00,165,135,60.75
+20,Coffee Bean Storage Canister,Equipment & Accessories,800.00,440,360,162
+21,Insulated Travel Mug,Equipment & Accessories,650.00,357.5,292.5,131.62
+22,Coffee Art Print,Lifestyle & Gifting,400.00,220,180,81
+23,Customizable Coffee Coaster Set,Lifestyle & Gifting,250.00,137.5,112.5,50.62
+24,Tote Bag with Coffee Design,Lifestyle & Gifting,500.00,275,225,101.25
+25,Coffee Recipe Book,Lifestyle & Gifting,600.00,330,270,121.5
+26,Coffee Plant Kit (DIY),Lifestyle & Gifting,900.00,495,405,182.25
+27,Personalized Coffee Spoon,Lifestyle & Gifting,200.00,110,90,40.5
+28,Coffee-Themed Notebook,Lifestyle & Gifting,300.00,165,135,60.75
